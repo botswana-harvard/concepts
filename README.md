@@ -12,7 +12,7 @@
 
 #### Enrollment / Disenrollment
 
-### Visit Schedule / Schedule / Visits / Visit Sequence
+#### Visit Schedule / Schedule / Visits / Visit Sequence
 
 #### Appointments / Timepoints
 
